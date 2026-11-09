@@ -1,0 +1,3 @@
+name: nexora
+flutter:
+  uses-material-design: true
